@@ -53,8 +53,8 @@ h1 {
 }
 
 .img-right {
-    height: 600px;
-    width: 900px;
+    height: 30vw;
+    width: 45vw;
     z-index: 1;
 }
 

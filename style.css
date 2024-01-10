@@ -7,11 +7,10 @@ html {
 body {
     margin: 0;
     padding: 0;
-    width: 100%
+    width: 95%
 }
 
 header {
-    width: 100%;
     display: flex;
     justify-content: space-between;
     padding: 0 2%;
@@ -20,6 +19,7 @@ header {
     left: 0;
     font-family: 'Gorditas', serif;
     font-family: 'Secular One', sans-serif;
+    overflow-x: hidden;
 }
 
 ul {
@@ -32,6 +32,7 @@ ul {
 
 li {
     margin-left: auto;
+    overflow: auto;
 }
 
 a {
